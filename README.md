@@ -46,6 +46,16 @@ NeuroAtlas is an interactive 3D exploration tool for the human brain, built as a
 
 ---
 
+## Project Structure
+
+neuroatlas/
+├── src/
+│   ├── App.tsx        # Main component: 3D scene, modes, sidebar logic
+│   ├── main.tsx
+│   └── index.css
+├── index.html
+└── package.json
+
 ## Getting Started
 
 ```bash
@@ -73,3 +83,6 @@ If you are developing a production application, we recommend enabling type-aware
 ```
 
 See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+
+## Author
+Built by Anyma Ali Msa, Psychology student, aspiring cognitive neuroscience researcher.
