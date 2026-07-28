@@ -17,13 +17,13 @@ NeuroAtlas is an interactive 3D exploration tool for the human brain, built as a
 
 ## Features
 
-- **Interactive 3D Brain** — click any lobe to open a detail panel (function, associated structures, key study)
-- **Connections Mode** — toggle glowing neon arcs showing structural/functional links between regions, with type, strength, direction, and role
-- **Brain Networks** — highlight and compare canonical networks (Default Mode Network, Salience Network), with overlap regions shown distinctly
-- **Functions Mode** — select a cognitive function (memory, attention, language, vision, motor coordination) to see which regions are involved
-- **Diseases Mode** — select one or more neurological conditions (Alzheimer's, Parkinson's, ADHD) to compare affected regions and circuits
-- **Lifespan Slider** — drag a 20–90 age slider to see a simplified visual proxy of age-related brain changes
-- **Bilingual** — every label and region description is available in French and English via a single toggle
+- **Interactive 3D Brain** → click any lobe to open a detail panel (function, associated structures, key study)
+- **Connections Mode** → toggle glowing neon arcs showing structural/functional links between regions, with type, strength, direction, and role
+- **Brain Networks** → highlight and compare canonical networks (Default Mode Network, Salience Network), with overlap regions shown distinctly
+- **Functions Mode** → select a cognitive function (memory, attention, language, vision, motor coordination) to see which regions are involved
+- **Diseases Mode** → select one or more neurological conditions (Alzheimer's, Parkinson's, ADHD) to compare affected regions and circuits
+- **Lifespan Slider** → drag a 20–90 age slider to see a simplified visual proxy of age-related brain changes
+- **Bilingual** → every label and region description is available in French and English via a single toggle
 
 ---
 
@@ -50,10 +50,15 @@ NeuroAtlas is an interactive 3D exploration tool for the human brain, built as a
 
 neuroatlas/
 ├── src/
-│   ├── App.tsx        # Main component: 3D scene, modes, sidebar logic
+
+│   ├── App.tsx        → Main component: 3D scene, modes, sidebar logic
+
 │   ├── main.tsx
+
 │   └── index.css
+
 ├── index.html
+
 └── package.json
 
 ## Getting Started
