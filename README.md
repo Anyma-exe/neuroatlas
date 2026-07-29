@@ -9,7 +9,7 @@
 
 ## Overview
 
-NeuroAtlas is an interactive 3D exploration tool for the human brain, built as a personal portfolio project ahead of a Master's application in cognitive neuroscience. It combines an anatomical atlas, network visualization, functional/pathological overlays, and a lifespan simulation into a single interface — think of it as a small, stylized "Google Maps" for brain regions.
+NeuroAtlas is an interactive 3D exploration tool for the human brain, built as a personal portfolio project ahead of a Master's application in cognitive neuroscience. It combines an anatomical atlas, network visualization, functional/pathological overlays, and a lifespan simulation into a single interface (think of it as a small) stylized "Google Maps" for brain regions.
 
 > **This is a V1 prototype.** Anatomy is simplified (geometric, not derived from real imaging data), and some visualizations (aging effects) are illustrative approximations rather than clinically validated models. See [Limitations](#-limitations--honest-disclaimers) below.
 
@@ -90,4 +90,4 @@ If you are developing a production application, we recommend enabling type-aware
 See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
 
 ## Author
-Built by Anyma Ali Msa, Psychology student, aspiring cognitive neuroscience researcher.
+Built by Anyma Ali Msa, Psychology student and aspiring cognitive neuroscience researcher.
